@@ -31,7 +31,8 @@ Everything is stored in memory while running, and tasks can be saved to a text f
 ## 📂 Files
 
 - `main.py` — The main program file.  
-- `tasks.txt` — Automatically created file where all active tasks are saved.  
+- `tasks.txt` — Automatically creates file where all active tasks are saved.
+- `version_2.py` — Version 2 was added on 30th March.
 
 ---
 
